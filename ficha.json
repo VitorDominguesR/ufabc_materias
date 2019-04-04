@@ -1,0 +1,676 @@
+[{
+    "ano": 2012,
+    "disciplina": "Base Experimental das Ciências Naturais",
+    "categoria": "Obrigatória",
+    "codigo": "BCS0001-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "B",
+    "periodo": "2"
+}, {
+    "ano": 2012,
+    "disciplina": "Estrutura da Matéria",
+    "categoria": "Obrigatória",
+    "codigo": "BIK0102-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2012,
+    "disciplina": "Origem da Vida e Diversidade dos Seres Vivos",
+    "categoria": "Obrigatória",
+    "codigo": "BIL0304-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "A",
+    "periodo": "2"
+}, {
+    "ano": 2012,
+    "disciplina": "Bases Computacionais da Ciência",
+    "categoria": "Obrigatória",
+    "codigo": "BIM0005-13",
+    "situacao": "Aprovado",
+    "creditos": 2,
+    "conceito": "B",
+    "periodo": "2"
+}, {
+    "ano": 2012,
+    "disciplina": "Bases Matemáticas",
+    "categoria": "Obrigatória",
+    "codigo": "BIN0003-13",
+    "situacao": "Reprovado",
+    "creditos": 4,
+    "conceito": "F",
+    "periodo": "2"
+}, {
+    "ano": 2012,
+    "disciplina": "Fenômenos Mecânicos",
+    "categoria": "Obrigatória",
+    "codigo": "BCJ0208-13",
+    "situacao": "Aprovado",
+    "creditos": 5,
+    "conceito": "C",
+    "periodo": "3"
+}, {
+    "ano": 2012,
+    "disciplina": "Transformações nos Seres Vivos e Ambiente",
+    "categoria": "Obrigatória",
+    "codigo": "BCL0306-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "C",
+    "periodo": "3"
+}, {
+    "ano": 2012,
+    "disciplina": "Natureza da Informação",
+    "categoria": "Obrigatória",
+    "codigo": "BCM0504-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "B",
+    "periodo": "3"
+}, {
+    "ano": 2012,
+    "disciplina": "Funções de Uma Variável",
+    "categoria": "Obrigatória",
+    "codigo": "BCN0402-13",
+    "situacao": "Reprovado",
+    "creditos": 4,
+    "conceito": "F",
+    "periodo": "3"
+}, {
+    "ano": 2012,
+    "disciplina": "Geometria Analítica",
+    "categoria": "Obrigatória",
+    "codigo": "BCN0404-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "A",
+    "periodo": "3"
+}, {
+    "ano": 2013,
+    "disciplina": "Fenômenos Térmicos",
+    "categoria": "Obrigatória",
+    "codigo": "BCJ0205-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2013,
+    "disciplina": "Transformações Químicas",
+    "categoria": "Obrigatória",
+    "codigo": "BCL0307-13",
+    "situacao": "Aprovado",
+    "creditos": 5,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2013,
+    "disciplina": "Processamento da Informação",
+    "categoria": "Obrigatória",
+    "codigo": "BCM0505-13",
+    "situacao": "Aprovado",
+    "creditos": 5,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2013,
+    "disciplina": "Introdução às Equações Diferenciais Ordinárias",
+    "categoria": "Obrigatória",
+    "codigo": "BCN0405-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2013,
+    "disciplina": "Bases Epistemológicas da Ciência Moderna",
+    "categoria": "Obrigatória",
+    "codigo": "BIR0004-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2013,
+    "disciplina": "Fenômenos Eletromagnéticos",
+    "categoria": "Obrigatória",
+    "codigo": "BCJ0209-13",
+    "situacao": "Aprovado",
+    "creditos": 5,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2013,
+    "disciplina": "Transformações Bioquímicas",
+    "categoria": "Obrigatória",
+    "codigo": "BCL0308-13",
+    "situacao": "Aprovado",
+    "creditos": 5,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2013,
+    "disciplina": "Comunicação e Redes",
+    "categoria": "Obrigatória",
+    "codigo": "BCM0506-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2013,
+    "disciplina": "Funções de Várias Variáveis",
+    "categoria": "Obrigatória",
+    "codigo": "BCN0407-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "2"
+}, {
+    "ano": 2013,
+    "disciplina": "Estrutura e Dinâmica Social",
+    "categoria": "Obrigatória",
+    "codigo": "BIQ0602-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2013,
+    "disciplina": "Física Quântica",
+    "categoria": "Obrigatória",
+    "codigo": "BCK0103-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "D",
+    "periodo": "3"
+}, {
+    "ano": 2013,
+    "disciplina": "Funções de Uma Variável",
+    "categoria": "Obrigatória",
+    "codigo": "BCN0402-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "D",
+    "periodo": "3"
+}, {
+    "ano": 2013,
+    "disciplina": "Energia: Origens, Conversão e Uso",
+    "categoria": "Obrigatória",
+    "codigo": "BIJ0207-13",
+    "situacao": "Aprovado",
+    "creditos": 2,
+    "conceito": "B",
+    "periodo": "3"
+}, {
+    "ano": 2013,
+    "disciplina": "Introdução à Probabilidade e à Estatística",
+    "categoria": "Obrigatória",
+    "codigo": "BIN0406-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "B",
+    "periodo": "3"
+}, {
+    "ano": 2013,
+    "disciplina": "Introdução às Engenharias",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO005-13",
+    "situacao": "Aprovado",
+    "creditos": 2,
+    "conceito": "A",
+    "periodo": "3"
+}, {
+    "ano": 2013,
+    "disciplina": "Álgebra Linear",
+    "categoria": "Obrigatória",
+    "codigo": "MCTB001-13",
+    "situacao": "Aprovado",
+    "creditos": 6,
+    "conceito": "C",
+    "periodo": "3"
+}, {
+    "ano": 2014,
+    "disciplina": "Interações Atômicas e Moleculares",
+    "categoria": "Obrigatória",
+    "codigo": "BCK0104-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2014,
+    "disciplina": "Ciência, Tecnologia e Sociedade",
+    "categoria": "Obrigatória",
+    "codigo": "BIR0603-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "B",
+    "periodo": "1"
+}, {
+    "ano": 2014,
+    "disciplina": "Projeto Dirigido",
+    "categoria": "Obrigatória",
+    "codigo": "BIS0002-13",
+    "situacao": "Aprovado",
+    "creditos": 2,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2014,
+    "disciplina": "Redes de Computadores",
+    "categoria": "Obrigatória",
+    "codigo": "MCTA022-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "A",
+    "periodo": "1"
+}, {
+    "ano": 2014,
+    "disciplina": "Redes sem Fio",
+    "categoria": "Livre Escolha",
+    "codigo": "MCZA024-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "1"
+}, {
+    "ano": 2014,
+    "disciplina": "Planejamento e Política Ambiental",
+    "categoria": "Livre Escolha",
+    "codigo": "ESHT017-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "A",
+    "periodo": "2"
+}, {
+    "ano": 2014,
+    "disciplina": "Telefonia Fixa Moderna",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI014-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2014,
+    "disciplina": "Arquitetura de Computadores",
+    "categoria": "Opção Limitada",
+    "codigo": "MCTA004-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "2"
+}, {
+    "ano": 2014,
+    "disciplina": "Cálculo Numérico",
+    "categoria": "Obrigatória",
+    "codigo": "MCTX033-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2014,
+    "disciplina": "Bases Matemáticas",
+    "categoria": "Obrigatória",
+    "codigo": "BIN0003-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "3"
+}, {
+    "ano": 2014,
+    "disciplina": "Transformadas em Sinais e Sistemas Lineares",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI003-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "D",
+    "periodo": "3"
+}, {
+    "ano": 2014,
+    "disciplina": "Redes de Alta Velocidade",
+    "categoria": "Opção Limitada",
+    "codigo": "ESZI005-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "D",
+    "periodo": "3"
+}, {
+    "ano": 2015,
+    "disciplina": "Sinais Aleatórios",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI005-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2015,
+    "disciplina": "Circuitos Elétricos e Fotônica",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO001-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "D",
+    "periodo": "1"
+}, {
+    "ano": 2015,
+    "disciplina": "Materiais e Suas Propriedades",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO006-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2015,
+    "disciplina": "Jogos Digitais: Aspectos Técnicos e Aplicações",
+    "categoria": "Opção Limitada",
+    "codigo": "ESZI012-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "A",
+    "periodo": "1"
+}, {
+    "ano": 2015,
+    "disciplina": "Princípios de Comunicação",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI004-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2015,
+    "disciplina": "Processamento Digital de Sinais",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI006-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "A",
+    "periodo": "2"
+}, {
+    "ano": 2015,
+    "disciplina": "Segurança de Dados",
+    "categoria": "Livre Escolha",
+    "codigo": "MCTA023-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2015,
+    "disciplina": "Funções Complexas e Transformadas Integrais",
+    "categoria": "Livre Escolha",
+    "codigo": "NHT3015-13",
+    "situacao": "Reprovado",
+    "creditos": 4,
+    "conceito": "F",
+    "periodo": "2"
+}, {
+    "ano": 2015,
+    "disciplina": "Circuitos Elétricos I",
+    "categoria": "Obrigatória",
+    "codigo": "ESTA002-13",
+    "situacao": "Aprovado",
+    "creditos": 5,
+    "conceito": "B",
+    "periodo": "3"
+}, {
+    "ano": 2015,
+    "disciplina": "Ondas Eletromagnéticas Aplicadas",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI009-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "D",
+    "periodo": "3"
+}, {
+    "ano": 2015,
+    "disciplina": "Segurança de Redes",
+    "categoria": "Opção Limitada",
+    "codigo": "ESZI008-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "3"
+}, {
+    "ano": 2015,
+    "disciplina": "Sistemas Distribuídos",
+    "categoria": "Opção Limitada",
+    "codigo": "MCTA025-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "3"
+}, {
+    "ano": 2016,
+    "disciplina": "Dispositivos Eletrônicos",
+    "categoria": "Obrigatória",
+    "codigo": "ESTA001-13",
+    "situacao": "Aprovado",
+    "creditos": 5,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2016,
+    "disciplina": "Propagação e Antenas",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI011-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "1"
+}, {
+    "ano": 2016,
+    "disciplina": "Métodos Experimentais em Engenharia",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO009-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "B",
+    "periodo": "1"
+}, {
+    "ano": 2016,
+    "disciplina": "Engenharia de Software",
+    "categoria": "Opção Limitada",
+    "codigo": "MCTA033-15",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2016,
+    "disciplina": "Atividades Complementares",
+    "categoria": "-",
+    "codigo": "ATC-BCT",
+    "situacao": "Apr.S.Nota",
+    "creditos": 0,
+    "conceito": "-",
+    "periodo": "2"
+}, {
+    "ano": 2016,
+    "disciplina": "Eletrônica Analógica Aplicada",
+    "categoria": "Obrigatória",
+    "codigo": "ESTA007-13",
+    "situacao": "Reprovado",
+    "creditos": 5,
+    "conceito": "F",
+    "periodo": "2"
+}, {
+    "ano": 2016,
+    "disciplina": "Engenharia Unificada I",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO900-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "A",
+    "periodo": "2"
+}, {
+    "ano": 2016,
+    "disciplina": "Programação Orientada a Objetos",
+    "categoria": "Opção Limitada",
+    "codigo": "MCTA018-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "A",
+    "periodo": "2"
+}, {
+    "ano": 2016,
+    "disciplina": "Instrumentação e Controle",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO004-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "3"
+}, {
+    "ano": 2016,
+    "disciplina": "Banco de Dados",
+    "categoria": "Opção Limitada",
+    "codigo": "MCTA005-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "3"
+}, {
+    "ano": 2017,
+    "disciplina": "Fundamentos de Desenho e Projeto",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO003-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "1"
+}, {
+    "ano": 2017,
+    "disciplina": "Engenharia Unificada II",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO901-13",
+    "situacao": "Aprovado",
+    "creditos": 3,
+    "conceito": "A",
+    "periodo": "1"
+}, {
+    "ano": 2017,
+    "disciplina": "Sistemas de Micro-ondas",
+    "categoria": "Opção Limitada",
+    "codigo": "ESZI019-13",
+    "situacao": "Repr.Freq",
+    "creditos": 4,
+    "conceito": "O",
+    "periodo": "1"
+}, {
+    "ano": 2017,
+    "disciplina": "Eletrônica Analógica Aplicada",
+    "categoria": "Obrigatória",
+    "codigo": "ESTA007-17",
+    "situacao": "Reprovado",
+    "creditos": 5,
+    "conceito": "F",
+    "periodo": "2"
+}, {
+    "ano": 2017,
+    "disciplina": "Programação de Software Embarcado",
+    "categoria": "Obrigatória",
+    "codigo": "ESZI041-17",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "2"
+}, {
+    "ano": 2017,
+    "disciplina": "Mecânica dos Sólidos I",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO008-17",
+    "situacao": "Repr.Freq",
+    "creditos": 4,
+    "conceito": "O",
+    "periodo": "3"
+}, {
+    "ano": 2017,
+    "disciplina": "Engenharia Econômica",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO013-17",
+    "situacao": "Reprovado",
+    "creditos": 4,
+    "conceito": "F",
+    "periodo": "3"
+}, {
+    "ano": 2017,
+    "disciplina": "Mecânica dos Fluidos I",
+    "categoria": "Obrigatória",
+    "codigo": "ESTO015-17",
+    "situacao": "Repr.Freq",
+    "creditos": 4,
+    "conceito": "O",
+    "periodo": "3"
+}, {
+    "ano": 2018,
+    "disciplina": "Fenômenos de Transporte",
+    "categoria": "Livre Escolha",
+    "codigo": "ESTO016-17",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "1"
+}, {
+    "ano": 2018,
+    "disciplina": "Sistemas Operacionais",
+    "categoria": "Opção Limitada",
+    "codigo": "MCTA026-13",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "1"
+}, {
+    "ano": 2018,
+    "disciplina": "Eletrônica Analógica Aplicada",
+    "categoria": "Obrigatória",
+    "codigo": "ESTA007-17",
+    "situacao": "Reprovado",
+    "creditos": 5,
+    "conceito": "F",
+    "periodo": "2"
+}, {
+    "ano": 2018,
+    "disciplina": "Eletrônica Digital",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI002-17",
+    "situacao": "Repr.Freq",
+    "creditos": 6,
+    "conceito": "O",
+    "periodo": "2"
+}, {
+    "ano": 2018,
+    "disciplina": "Sistemas Microprocessados",
+    "categoria": "Obrigatória",
+    "codigo": "ESTI013-17",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "A",
+    "periodo": "3"
+}, {
+    "ano": 2018,
+    "disciplina": "Programação Estruturada",
+    "categoria": "Opção Limitada",
+    "codigo": "MCTA028-15",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "C",
+    "periodo": "3"
+}, {
+    "ano": 2018,
+    "disciplina": "Programação Segura",
+    "categoria": "Livre Escolha",
+    "codigo": "MCZA034-17",
+    "situacao": "Aprovado",
+    "creditos": 4,
+    "conceito": "B",
+    "periodo": "3"
+}]

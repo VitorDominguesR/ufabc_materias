@@ -1,0 +1,206 @@
+[{
+    'disciplina': 'Álgebra Linear',
+    'codigo': 'MCTB001-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Cálculo Numérico',
+    'codigo': 'MCTB009-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Circuitos Elétricos e Fotônica',
+    'codigo': 'ESTO001-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Circuitos Elétricos I',
+    'codigo': 'ESTA002-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Comunicação Digital',
+    'codigo': 'ESTI007-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Comunicações Móveis',
+    'codigo': 'ESTI015-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Comunicações Multimídia',
+    'codigo': 'ESTI012-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Comunicações Ópticas',
+    'codigo': 'ESTI010-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Eletrônica Analógica Aplicada',
+    'codigo': 'ESTA007-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Eletrônica Digital',
+    'codigo': 'ESTI002-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Engenharia Econômica',
+    'codigo': 'ESTO002-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Engenharia Unificada I',
+    'codigo': 'ESTO900-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Engenharia Unificada II',
+    'codigo': 'ESTO901-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Estágio Curricular I em Engenharia de Informação',
+    'codigo': 'ESTI900-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Estágio Curricular II em Engenharia de Informação',
+    'codigo': 'ESTI901-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Fundamentos de Desenho e Projeto',
+    'codigo': 'ESTO003-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Dispositivos Eletrônicos',
+    'codigo': 'ESTA001-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Instrumentação e Controle',
+    'codigo': 'ESTO004-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Introdução às Engenharias',
+    'codigo': 'ESTO005-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Materiais e Suas Propriedades',
+    'codigo': 'ESTO006-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Mecânica dos Fluidos I',
+    'codigo': 'ESTO007-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Mecânica dos Fluidos I',
+    'codigo': 'ESTO007-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Termodinâmica Aplicada I',
+    'codigo': 'ESTO010-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Termodinâmica Aplicada I',
+    'codigo': 'ESTO010-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Mecânica dos Sólidos I',
+    'codigo': 'ESTO008-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Métodos Experimentais em Engenharia',
+    'codigo': 'ESTO009-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Ondas Eletromagnéticas Aplicadas',
+    'codigo': 'ESTI009-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Princípios de Comunicação',
+    'codigo': 'ESTI004-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Processamento Digital de Sinais',
+    'codigo': 'ESTI006-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Programação de Software Embarcado',
+    'codigo': 'ESTI001-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Propagação e Antenas',
+    'codigo': 'ESTI011-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Redes de Computadores',
+    'codigo': 'MCTA022-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Sinais Aleatórios',
+    'codigo': 'ESTI005-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Sistemas Microprocessados',
+    'codigo': 'ESTI013-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Telefonia Fixa Moderna',
+    'codigo': 'ESTI014-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Teoria da Informação e Códigos',
+    'codigo': 'ESTI008-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Trabalho de Graduação I em Engenharia de Informação',
+    'codigo': 'ESTI902-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Trabalho de Graduação II em Engenharia de Informação',
+    'codigo': 'ESTI903-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Trabalho de Graduação III em Engenharia de Informação',
+    'codigo': 'ESTI904-13',
+    'situacao': 'Not OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Transformadas em Sinais e Sistemas Lineares',
+    'codigo': 'ESTI003-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+},{
+    'disciplina': 'Circuitos Elétricos e Fotônica',
+    'codigo': 'ESTO001-13',
+    'situacao': 'OK',
+    'categoria': 'Obrigatória'
+}]

@@ -1,0 +1,92 @@
+MCTB001-13;Álgebra Linear;6;Obrigatória
+MCTA001-13;Algoritmos e Estruturas de Dados I;4;Opção Limitada
+MCTA002-17;Algoritmos e Estruturas de Dados II;4;Opção Limitada
+ESZI025-13;Aplicações de Microcontroladores;4;Opção Limitada
+ESZI021-13;Aplicações Multimídia em Voz, Áudio e Acústica;4;Opção Limitada
+MCTA004-17;Arquitetura de Computadores;4;Opção Limitada
+MCTA037-17;Banco de Dados;4;Opção Limitada
+MCTB009-13;Cálculo Numérico;4;Obrigatória
+MCTB010-13;Cálculo Vetorial e Tensorial;4;Opção Limitada
+ESTO001-13;Circuitos Elétricos e Fotônica;4;Obrigatória
+ESTA002-13;Circuitos Elétricos I;5;Obrigatória
+ESTA004-17;Circuitos Elétricos II;5;Opção Limitada
+ESTI007-13;Comunicação Digital;4;Obrigatória
+ESTI015-13;Comunicações Móveis;4;Obrigatória
+ESTI012-13;Comunicações Multimídia;4;Obrigatória
+ESTI010-13;Comunicações Ópticas;4;Obrigatória
+ESTA007-13;Eletrônica Analógica Aplicada;5;Obrigatória
+ESTI002-13;Eletrônica Digital;6;Obrigatória
+ESZI026-13;Engenharia de Sistemas de Comunicação e Missão Crítica;4;Opção Limitada
+MCTA010-13;Engenharia de Software;6;Opção Limitada
+ESTO002-13;Engenharia Econômica;3;Obrigatória
+ESTO900-13;Engenharia Unificada I;3;Obrigatória
+ESTO901-13;Engenharia Unificada II;3;Obrigatória
+ESTI900-13;Estágio Curricular I em Engenharia de Informação;7;Obrigatória
+ESTI901-13;Estágio Curricular II em Engenharia de Informação;7;Obrigatória
+ESZI002-13;Filtragem Adaptativa;4;Opção Limitada
+ESZI044-17;Fundamentos da Computação Semântica;4;Opção Limitada
+ESTI017-17;Fundamentos de Eletromagnetismo Aplicado;4;Opção Limitada
+ESZI017-13;Fundamentos de Processamento Gráfico;4;Opção Limitada
+ESTO003-13;Fundamentos de Desenho e Projeto;4;Obrigatória
+ESTA001-13;Dispositivos Eletrônicos;5;Obrigatória
+ESZI007-13;Gerenciamento e Interoperabilidade de Redes;4;Opção Limitada
+ESZI001-13;Informação e Sociedade;2;Opção Limitada
+ESZI013-13;Informática Industrial;4;Opção Limitada
+ESZI045-17;Introdução à Linguística Computacional;4;Opção Limitada
+MCZB018-13;Introdução à Modelagem e Processos Estocásticos;4;Opção Limitada
+ESZI015-13;Introdução ao Processamento de Sinais de Voz, Áudio e Acústicos;4;Opção Limitada
+ESTO004-13;Instrumentação e Controle;4;Obrigatória
+ESZI042-17;Instrumentação em RF e Micro-ondas;4;Opção Limitada
+MCZA032-14;Introdução à Programação de Jogos;4;Opção Limitada
+ESTO005-13;Introdução às Engenharias;2;Obrigatória
+ESZI012-13;Jogos Digitais: Aspectos Técnicos e Aplicações;4;Opção Limitada
+MCZA011-17;Laboratório de Redes;4;Opção Limitada
+ESTO006-13;Materiais e Suas Propriedades;4;Obrigatória
+ESTO007-13;Mecânica dos Fluidos I;4;Obrigatória
+ESTO010-13;Termodinâmica Aplicada I;4;Obrigatória
+ESTO008-13;Mecânica dos Sólidos I;4;Obrigatória
+ESTO009-13;Métodos Experimentais em Engenharia;3;Obrigatória
+ESTI009-13;Ondas Eletromagnéticas Aplicadas;4;Obrigatória
+ESZI022-13;Planejamento de Redes de Informação;4;Opção Limitada
+ESTO012-17;Princípios de Administração;2;Opção Limitada
+ESTI004-13;Princípios de Comunicação;4;Obrigatória
+ESZI003-13;Processamento de Informação em Línguas Naturais;4;Opção Limitada
+ESZI009-13;Processamento de Vídeo;4;Opção Limitada
+MCZX006-13;Processamento Digital de Imagens;4;Opção Limitada
+ESTI006-13;Processamento Digital de Sinais;4;Obrigatória
+ESZI011-13;Programação de Dispositivos Móveis;2;Opção Limitada
+ESTI001-13;Programação de Software Embarcado;4;Obrigatória
+ESZI020-13;Projeto de Alta Frequência;4;Opção Limitada
+ESZA017-13;Lógica Programável;4;Livre Escolha
+MCTA028-15;Programação Estruturada;4;Opção Limitada
+MCTA018-13;Programação Orientada a Objetos;4;Opção Limitada
+ESZI043-17;Programação Baseada em Componentes para Jogos;4;Opção Limitada
+ESZI016-13;Projeto de Filtros Digitais;4;Opção Limitada
+MCZA021-17;Projeto de Redes;4;Opção Limitada
+ESZI023-13;Projeto de Sistemas de Comunicação;3;Opção Limitada
+ESZI024-13;Projeto de Sistemas Multimídia;3;Opção Limitada
+ESTI011-13;Propagação e Antenas;4;Obrigatória
+ESZI005-13;Redes de Alta Velocidade;4;Opção Limitada
+MCZA023-17;Redes Convergentes;4;Opção Limitada
+MCTA022-13;Redes de Computadores;4;Obrigatória
+ESZI008-13;Segurança de Redes;4;Opção Limitada
+MCZA025-13;Segurança em Redes;4;Opção Limitada
+ESZI010-13;Simulação de Sistemas de Comunicação;4;Opção Limitada
+ESTI005-13;Sinais Aleatórios;4;Obrigatória
+ESTA003-17;Sistemas de Controle I;5;Opção Limitada
+ESZI019-13;Sistemas de Micro-ondas;4;Opção Limitada
+MCTA025-13;Sistemas Distribuídos;4;Opção Limitada
+ESZI014-13;Sistemas Inteligentes;4;Opção Limitada
+ESTI013-13;Sistemas Microprocessados;4;Obrigatória
+MCTA026-13;Sistemas Operacionais;4;Opção Limitada
+ESZI018-13;Tecnologia de Redes Ópticas;4;Opção Limitada
+ESTI014-13;Telefonia Fixa Moderna;4;Obrigatória
+ESTI008-13;Teoria da Informação e Códigos;4;Obrigatória
+ESZI006-13;Teoria de Filas e Análise de Desempenho;4;Opção Limitada
+ESTI902-13;Trabalho de Graduação I em Engenharia de Informação;2;Obrigatória
+ESTI903-13;Trabalho de Graduação II em Engenharia de Informação;2;Obrigatória
+ESTI904-13;Trabalho de Graduação III em Engenharia de Informação;2;Obrigatória
+ESTI003-13;Transformadas em Sinais e Sistemas Lineares;4;Obrigatória
+ESZI004-13;TV Digital;4;Opção Limitada
+ESTO001-13;Circuitos Elétricos e Fotônica;4;Obrigatória
+;
