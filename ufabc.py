@@ -2,11 +2,13 @@
 
 
 import json
+from get_materias_planejadas import returMaterias
+import re
 
 class materias_feitas():
 
     def __init__(self, path_file_ficha):
-        self.json_file = json.load(open(path_file_ficha))
+        self.json_file = json.load(open(path_file_ficha, encoding='utf8'))
 
 
     def return_all(self, situacao=None):
@@ -30,7 +32,7 @@ class materias_feitas():
     
     def compare_with_grade(self, path_grade):
         result = []
-        with open(path_grade) as file_grade:
+        with open(path_grade, encoding='utf-8') as file_grade:
             grade = [] 
             for line in file_grade:
                 line = line.split(';')
@@ -38,7 +40,7 @@ class materias_feitas():
                     grade.append({'codigo':line[0],'disciplina':line[1], 'categoria':line[3]})
 
         materias_feitas = json.loads(self.get_all_done())
-        covalidacoes = open('covalidacoes', 'r').read()
+        covalidacoes = open('covalidacoes', 'r', encoding='utf8').read()
         for materia in grade:
             #print(materia)
             aux_result = {'disciplina':materia['disciplina'], 'codigo':materia['codigo'], 'situacao':'', 'categoria':materia['categoria'].strip()}
@@ -67,3 +69,10 @@ print("\n\n\n\nNot Ok\n\n")
 list(map(print, not_obg))
 print(len(not_obg))
 
+materias_ofertadas = returMaterias('matricula_disciplinas_2019.2_turmas_planejadas.pdf').get_materias()
+for materia in not_obg:
+    #print(materia['codigo'])
+    matches = [x for x in materias_ofertadas.keys() if materia['codigo'] in x]
+    for match in matches:
+        if match is not None and 'diurno' not in materias_ofertadas[match] and 'sexta' not in materias_ofertadas[match]:
+            print(materias_ofertadas[match])
