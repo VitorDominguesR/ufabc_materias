@@ -52,27 +52,50 @@ class materias_feitas():
                 result.append(aux_result)
         
         return sorted(result,key=lambda k: k['categoria'])
-        
+    
+    def get_obrigatorias(self, path_grade):
+        result = {}
+        with open(path_grade, encoding='utf-8') as file_grade:
+            grade = [] 
+            for line in file_grade:
+                line = line.split(';')
+                if len(line)> 2 and line[3]=='Obrigatória':
+                    result[line[0]]=line[1]
+        return result        
 
 
 
 
 materias_ufabc = materias_feitas('ficha.json')
 
-obgri = [x for x in materias_ufabc.compare_with_grade('2017') if (x['categoria']=='Obrigatória' and x['situacao']=='OK')]
-not_obg = [x for x in materias_ufabc.compare_with_grade('2017') if (x['categoria']=='Obrigatória' and x['situacao']=='Not OK')]
+ok_sit = [x for x in materias_ufabc.compare_with_grade('2017_bcc') if (x['categoria']=='Obrigatória' and x['situacao']=='OK')]
+not_ok_sit = [x for x in materias_ufabc.compare_with_grade('2017_bcc') if (x['categoria']=='Obrigatória' and x['situacao']=='Not OK')]
 
 print("Ok\n\n")
-list(map(print, obgri))
+list(map(print, ok_sit))
 
 print("\n\n\n\nNot Ok\n\n")
-list(map(print, not_obg))
-print(len(not_obg))
+list(map(print, not_ok_sit))
+print(len(not_ok_sit))
 
 materias_ofertadas = returMaterias('matricula_disciplinas_2019.2_turmas_planejadas.pdf').get_materias()
-for materia in not_obg:
+for materia in not_ok_sit:
     #print(materia['codigo'])
     matches = [x for x in materias_ofertadas.keys() if materia['codigo'] in x]
     for match in matches:
-        if match is not None and 'diurno' not in materias_ofertadas[match] and 'sexta' not in materias_ofertadas[match]:
-            print(materias_ofertadas[match])
+        if match is not None and 'diurno' not in materias_ofertadas[match]:# and 'sexta' not in materias_ofertadas[match]:
+            value = materias_ofertadas[match]
+            horario = re.search('(?:\)\s)(.+)(?:CMCC)', value).group(1).strip()
+            materia = re.split('(?<=\))\s', value)[0]
+            professor = re.split('\d\s/',value.split('CMCC')[1].strip())[0].replace(' BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO','')
+            formatted_str = "Discp.: {0}\nHorário: {1}\nProf.:{2}\n\n".format(materia, horario, professor)
+            print(formatted_str)
+    
+print('Outras'.center(20,'#'))
+cod_discp_feitas = {}
+for x in json.loads(materias_ufabc.get_all_done()):
+    cod_discp_feitas[x['codigo']]=x['disciplina']
+
+for key, value in materias_ofertadas.items():
+    if 'CIÊNCIA DA COMPUTAÇÃO' in value and 'diurno' not in value:
+        print(value.split('(')[0].strip())
